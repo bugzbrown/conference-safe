@@ -16,7 +16,7 @@ This idea is based on an idea that I've seen and used with cycling. There are gr
 
 ## The initial idea - the seed
 
-The initial idea, the 'seed' so to speak was to create a "vetting system" for "escorts/groups". Yes, it was as bad as it sounds...
+The initial idea, the 'seed' so to speak was to create a "vetting system" for "angels/groups". Yes, it was as bad as it sounds...
 Before you bash me... The idea works "kind-of" like this:
 
 Let's say there is a tech conference in SP next month. Not a really big one that I want to go to. I sign up for the conference, and, I also
@@ -29,7 +29,7 @@ Alex sends the people a "I'll be going too" of some sorts. From there, they can 
 
 After the conference is over, Alex is sent an email, asking to review the conference. The system give Alex the option of rating not only the conference, but the people that have attended the conference, giving tem ratings from 1 - N.
 
-Alex may at any time, decide to become an "escort" too.
+Alex may at any time, decide to become an "angel" too.
 
 ## Where could we go from here
 
